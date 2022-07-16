@@ -1,0 +1,116 @@
+{
+  "products":[
+    {
+      "Name": "Anthony Russo",
+      "Role": "Director",
+      "Age": 51,
+      "Country": "USA",
+      "Salary": "$990000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Anthony_Russo_%2848385343301%29_%28cropped%29.jpg"
+    },
+    {
+      "Name": "Stan Lee",
+      "Role": "Story Writer",
+      "Age": 95,
+      "Country": "USA",
+      "Salary": "$569000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stan_Lee_by_Gage_Skidmore_3.jpg/640px-Stan_Lee_by_Gage_Skidmore_3.jpg"
+    },
+    {
+      "Name": "Thomas Edison",
+      "Role": "Inventor",
+      "Age": 71,
+      "Country": "New Jersey",
+      "Salary": "$782000",
+      "img": "https://i.pinimg.com/736x/82/e3/6d/82e36db1b111bb6a14fb22b35c57acbb.jpg"
+    },
+    {
+      "Name": "Elon Musk",
+      "Role": "Investor",
+      "Age": 51,
+      "Country": "South Africa",
+      "Salary": "$9849000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/1200px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
+    },
+    {
+      "Name": "Bill Gates",
+      "Role": "Software Developer",
+      "Age": 66,
+      "Country": "U.S.",
+      "Salary": "$5879000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bill_Gates_2017_%28cropped%29.jpg"
+    },
+    {
+      "Name": "Steve Jobs",
+      "Role": " Entrepreneur",
+      "Age": 56,
+      "Country": "U.S.",
+      "Salary": "$4989000",
+      "img": "https://thumbs.dreamstime.com/b/steve-jobs-ceo-founder-apple-computers-pixar-boss-world-premiere-disney-pixar-s-monsters-inc-el-capitan-34828854.jpg"
+    },
+    {
+      "Name": "Tim Cook",
+      "Role": "CEO of Apple Inc",
+      "Age": 71,
+      "Country": "U.S.",
+      "Salary": "$9890000",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e1/%D0%A2%D0%B8%D0%BC_%D0%9A%D1%83%D0%BA_%2802-09-2021%29.jpg"
+    },
+    {
+      "Name": "Mark Zuckerberg",
+      "Role": "Media proprietor",
+      "Age": 38,
+      "Country": "New York",
+      "Salary": "$87449900",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/18/Mark_Zuckerberg_F8_2019_Keynote_%2832830578717%29_%28cropped%29.jpg"
+    },
+    {
+      "Name": "Lauren Wendy Sánchez",
+      "Role": "News anchor",
+      "Age": 52,
+      "Country": "New Mexico",
+      "Salary": "$8799000",
+      "img": "https://www.thefamouspeople.com/profiles/images/lauren-snchez-5.jpg"
+    },
+    {
+      "Name": "Talulah Jane Riley-Milburn",
+      "Role": "Actress",
+      "Age": 36,
+      "Country": "New York",
+      "Salary": "$8799000",
+      "img": "https://www.thewikifeed.com/wp-content/uploads/2021/10/talulah-riley-1.jpg"
+    },
+    {
+      "Name": "Claire Elise Boucher",
+      "Role": "Musician",
+      "Age": 34,
+      "Country": "Canada",
+      "Salary": "$14744990",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoo5yIXKHtCJY8obBTLkkzWoTk9H4xQYhJ1IxjAdPbR8Se9We0Zur3z5QMUOd-FmeRrf8&usqp=CAU"
+    },
+    {
+      "Name": "Jeff Bezos",
+      "Role": "Enterpreniour",
+      "Age": 58,
+      "Country": "New Mexico",
+      "Salary": "$2544900",
+      "img": "https://miro.medium.com/max/1200/1*3U0r3rpqtU0L3AHJ0ygzig.jpeg"
+    },
+    {
+      "Name": "Warren Buffett",
+      "Role": "Businessman",
+      "Age": 91,
+      "Country": "Canada",
+      "Salary": "$74744940",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Warren_Buffett_KU_Visit.jpg/800px-Warren_Buffett_KU_Visit.jpg"
+    },
+    {
+      "Name": "Mukesh Ambani",
+      "Role": "Businessman",
+      "Age": 65,
+      "Country": "India",
+      "Salary": "$82874490",
+      "img": "https://healthyceleb.com/wp-content/uploads/2019/12/Mukesh_Ambani-as-seen-in-December-2007.jpg"
+    }
+  ]
+}

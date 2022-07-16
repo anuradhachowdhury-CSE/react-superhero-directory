@@ -1,0 +1,18 @@
+.header h2,p{
+    color:rgb(66, 210, 181)
+
+}
+.header{
+   background-color: rgb(247, 221, 230);
+    width: 75%;
+    margin-left: 10%;
+    border: 1px solid bisque;
+    border-radius: 10px;
+    opacity: 0.7;
+
+    
+}
+.whole-body{
+    /* background-image: linear-gradient(cyan,black,gray); */
+    background-image: url("../../../image/dark-hexagonal-background-with-gradient-color_79603-1410.webp");
+}

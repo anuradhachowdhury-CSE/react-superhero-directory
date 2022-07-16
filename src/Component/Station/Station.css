@@ -1,0 +1,20 @@
+.station{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    /* background-image: linear-gradient(gray,black,white); */
+ background-image: url("../../../image/dark-hexagonal-background-with-gradient-color_79603-1410.webp");
+    
+}
+.part-one{
+    border-right: 2px solid gray;
+    color:white;
+    opacity: 0.9;
+}
+.part-two{
+    color:rgb(36, 206, 64);
+}
+.part-one{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+   
+}
